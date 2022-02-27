@@ -1,275 +1,276 @@
 idx,les,dk,en
-1_Basics_1,0,drenge, = boys (en- word)
-1_Basics_1,1,drengen, = the boy
-1_Basics_1,2,piger, = girls (en- word)
-1_Basics_1,3,pigen, = the girl
-1_Basics_1,4,mælk, = milk
-1_Basics_1,5,læser," = read, reads, am/is/are reading"
-1_Basics_1,6,avis, = newspaper (en- word)
-1_Basics_1,7,vi, = we
-1_Basics_1,8,ris, = rice
-1_Basics_1,9,mænd, = the man
-1_Basics_1,10,kvinder, = the woman
-1_Basics_1,11,pigerne, = the girls
-1_Basics_1,12,drengene, = the boys
-1_Basics_1,13,avisen, = the newspaper
-1_Basics_1,14,sandwich, = sandwich
-1_Basics_1,15,menu, = menu (en- word)
-1_Basics_1,16,menuen =, the menu
-1_Basics_1,17,bog, = book
-1_Basics_1,18,har, = have/has
-1_Basics_1,19,barn, = child (et- word)
-1_Basics_1,20,I, = you (pl.)
-1_Basics_1,21,det," = it, that, the"
-1_Basics_1,22,kvinderen, = the women
-1_Basics_1,23,mændene, = the men
-2_Basics_2,0,kaffe, = coffee
-2_Basics_2,1,vin, = wine
-2_Basics_2,2,appelsin, = orange (the fruit) (en- word)
-2_Basics_2,3,kylling, = chicken
-2_Basics_2,4,æg ,= egg
-2_Basics_2,5,tallerken ,= plate (en- word)
-2_Basics_2,6,fisk, = fish
-2_Basics_2,7,kartoffel, = potato
-2_Basics_2,8,sukker ,= sugar
-2_Basics_2,9,pasta, = pasta
-2_Basics_2,10,is," = ice cream, ice"
-2_Basics_2,11,frokost, = lunch
-2_Basics_2,12,saft, = juice
-2_Basics_2,13,morgenmad, = breakfast
-2_Basics_2,14,frugt, = fruit
-2_Basics_2,15,ost, = cheese
-2_Basics_2,16,kage, = cake
-2_Basics_2,17,jordbær, = strawberry
-2_Basics_2,18,bøf, = steak
-2_Basics_2,19,mad, = food
-2_Basics_2,20,citron, = lemon
-2_Basics_2,21,suppe, = soup
-2_Basics_2,22,tomat, = tomato (en- word)
-2_Basics_2,23,øl, - beer (en- word)
-2_Basics_2,24,svinekød, = pork
-2_Basics_2,25,kød, = meat
-2_Basics_2,26,aftensmad, = dinner
-2_Basics_2,27,te, = tea
-2_Basics_2,28,olie, = oil
-2_Basics_2,29,salt, = salt
-2_Basics_2,30,vegetar, = vegetarian
-2_Basics_2,31,måltid, = meal (et- word)
-3_Phrases,0,hej," = hello, bye"
-3_Phrases,1,ja, = yes
-3_Phrases,2,farvel," = goodbye/bye, farewell"
-3_Phrases,3,nej, = no
-3_Phrases,4,tak," = thank you/thanks, please"
-3_Phrases,5,godmorgen, = good morning
-3_Phrases,6,godaften, = good evening
-3_Phrases,7,glad, = happy/fond
-3_Phrases,8,velkommen," = welcome (as in ""Welcome to Denmark"")"
-3_Phrases,9,undskyld, = sorry/excuse me
-3_Phrases,10,siger," = say/says, am/is/are saying"
-3_Phrases,11,siger undskyld, = (I/you/he/she/it/we/they) apologise/apologises
-3_Phrases,12,ikke," = not, do/does not"
-3_Phrases,13,goddag, = good day/hello
-3_Phrases,14,godnat, = good night
-3_Phrases,15,engelsk, = English
-3_Phrases,16,snakker,"talk/talks, am/is/are talking"
-3_Phrases,17,måske, = maybe
-4_Food,0,mælken, = the milk (en- word)
-4_Food,1,sandwichen, = the sandwich (en- word)
-4_Food,2,appelsinen, = the apple (en- word)
-4_Food,3,tallerkenen, = the plate (en- word)
-4_Food,4,kaffen, = the coffee (en- word)
-4_Food,5,bogen, = the book (en- word)
-4_Food,6,kyllingen, = the chicken (en- word)
-4_Food,7,barnet, = the child (et- word)
-4_Food,8,ægget, = the egg (et- word)
-4_Food,9,frugten = ,the fruit (en- word)
-4_Food,10,saften, = the juice (en- word)
-4_Food,11,morgenmaden, = the breakfast (en- word)
-4_Food,12,frokosten, = the lunch (en- word)
-4_Food,13,osten, = the cheese (en- word)
-4_Food,14,pastaen, = the pasta (en- word)
-4_Food,15,vinen, = the wine (en- word)
-4_Food,16,fisken, = the fish (en- word)
-4_Food,17,sukkeret, = the sugar (et- word)
-4_Food,18,aviserne, = the newspapers
-4_Food,19,dyrene, = the animals
-4_Food,20,bøgerne, = the books
-4_Food,21,kattene, = the cats
-4_Food,22,frugterne, = the fruits
-4_Food,23,æblerne = ,the apples
-4_Food,24,hestene, = the horses
-4_Food,25,hundene, = the dogs
-4_Food,26,bjørnene, = the bears
-4_Food,27,maden, = the food (en- word)
-4_Food,28,øllen, = the beer (en- word)
-4_Food,29,jordbæret, = the strawberry (et- word)
-4_Food,30,risene, = the rice
-4_Food,31,tomaten, = the tomato (en- word)
-4_Food,32,skildpadderne, = the turtles
-4_Food,33,bøffen = ,the steak (en- word)
-4_Food,34,suppen, = the soup (en- word)
-4_Food,35,saltet, = the salt (et- word)
-4_Food,36,vegetarene, = the vegetarians
-4_Food,37,svinekødet = ,the pork (et- word)
-4_Food,38,olien, = the oil (en- word)
-4_Food,39,citronen, = the lemon (en- word)
-4_Food,40,måltidet, = the meal (et- word)
-4_Food,41,teen, = the tea (en- word)
-4_Food,42,kødet =, the meat (et- word)
-4_Food,43,børnene ,= the children
-4_Food,44,appelsinerne ,= the oranges
-4_Food,45,aftensmaden, = the dinner (en- word)
-5_Animals,1,dyret, = the animal (et- word)
-5_Animals,2,kagen, = the cake (en- word)
-5_Animals,3,vegetaren, = the vegetarian (en- word)
-5_Animals,4,elefanterne, = the elephants 
-5_Animals,5,tellerknerne, = the plates 
-5_Animals,6,sandwichene, = the sandwiches 
-5_Animals,7,anden, = the duck (en- word)
-5_Animals,8,skildpadden, = the turtle (en- word)
-5_Animals,9,elefanten, = the elephant (en- word)
-5_Animals,10,hesten, = the horse (en- word)
-5_Animals,11,krabben, = the crab (en- word)
-5_Animals,12,kartoflen, = the potato (en- word)
-5_Animals,13,musen, = the mouse (en- word)
-5_Animals,14,øllene, = the beers (en- word)
-5_Animals,15,edderkoppen, = the spider (en- word)
-5_Animals,16,bjørnen, = the bear (en- word)
-5_Animals,17,skildpadde ,= turtle (en- word)
-5_Animals,18,fugl, = bird (en- word)
-5_Animals,19,hest, = horse (en- word)
-5_Animals,20,elefant, = elephant (en- word)
-5_Animals,21,and, = duck (en- word)
-5_Animals,22,kat, = cat (en- word)
-5_Animals,23,mus, = mouse (en- word)
-5_Animals,24,bjørn, = bear
-5_Animals,25,krabbe, = crab
-5_Animals,26,katten ,= the cat
-5_Animals,27,dyr, = animal (et- word)
-5_Animals,28,hund, = dog (en- word)
-5_Animals,29,hunden, = the dog
-5_Animals,30,edderkop, = spider
-5_Animals,31,løve, = lion (en- word)
-5_Animals,32,ugle, = owl (en- word)
-5_Animals,33,fuglen, = the bird
-6_Definites,0,mælken,the milk (en- word)
-6_Definites,1,sandwichen,the sandwich (en- word)
-6_Definites,2,appelsinen,the apple (en- word)
-6_Definites,3,tallerkenen,the plate (en- word)
-6_Definites,4,kaffen,the coffee (en- word)
-6_Definites,5,bogen,the book (en- word)
-6_Definites,6,kyllingen,the chicken (en- word)
-6_Definites,7,barnet,the child (et- word)
-6_Definites,8,ægget,the egg (et- word)
-6_Definites,9,frugten,the fruit (en- word)
-6_Definites,10,saften,the juice (en- word)
-6_Definites,11,morgenmaden,the breakfast (en- word)
-6_Definites,12,frokosten,the lunch (en- word)
-6_Definites,13,osten,the cheese (en- word)
-6_Definites,14,pastaen,the pasta (en- word)
-6_Definites,15,vinen,the wine (en- word)
-6_Definites,16,fisken,the fish (en- word)
-6_Definites,17,sukkeret,the sugar (et- word)
-6_Definites,18,aviserne,the newspapers
-6_Definites,19,dyrene,the animals
-6_Definites,20,bøgerne,the books
-6_Definites,21,kattene,the cats
-6_Definites,22,frugterne,the fruits
-6_Definites,23,æblerne,the apples
-6_Definites,24,hestene,the horses
-6_Definites,25,hundene,the dogs
-6_Definites,26,bjørnene,the bears
-6_Definites,27,maden,the food (en- word)
-6_Definites,28,øllen,the beer (en- word)
-6_Definites,29,jordbæret,the strawberry (et- word)
-6_Definites,30,risene,the rice
-6_Definites,31,tomaten,the tomato (en- word)
-6_Definites,32,skildpadderne,the turtles
-6_Definites,33,bøffen,the steak (en- word)
-6_Definites,34,suppen,the soup (en- word)
-6_Definites,35,saltet,the salt (et- word)
-6_Definites,36,vegetarene,the vegetarians
-6_Definites,37,svinekødet,the pork (et- word)
-6_Definites,38,olien,the oil (en- word)
-6_Definites,39,citronen,the lemon (en- word)
-6_Definites,40,måltidet,the meal (et- word)
-6_Definites,41,teen,the tea (en- word)
-6_Definites,42,kødet,the meat (et- word)
-6_Definites,43,børnene,the children
-6_Definites,44,appelsinerne,the oranges
-6_Definites,45,aftensmaden,the dinner (en- word)
-6_Definites,46,fluglene,the birds
-6_Definites,47,dyret,the animal (et- word)
-6_Definites,48,kagen,the cake (en- word)
-6_Definites,49,vegetaren,the vegetarian (en- word)
-6_Definites,50,elefanterne,the elephants
-6_Definites,51,tellerknerne,the plates
-6_Definites,52,sandwichene,the sandwiches
-6_Definites,53,anden,the duck (en- word)
-6_Definites,54,skildpadden,the turtle (en- word)
-6_Definites,55,elefanten,the elephant (en- word)
-6_Definites,56,hesten,the horse (en- word)
-6_Definites,57,krabben,the crab (en- word)
-6_Definites,58,kartoflen,the potato (en- word)
-6_Definites,59,musen,the mouse (en- word)
-6_Definites,60,øllene,the beers (en- word)
-6_Definites,61,edderkoppen,the spider (en- word)
-6_Definites,62,bjørnen,the bear (en- word)
-8_Genitive_Case,1,mig, = me
-8_Genitive_Case,2,dig, = you
-8_Genitive_Case,3,ham, = him
-8_Genitive_Case,4,hende, = her
-8_Genitive_Case,5,dem, = them
-8_Genitive_Case,6,en kvindes, = a woman's
-8_Genitive_Case,7,kvindens, = the woman's
-8_Genitive_Case,8,en mands, = a man's
-8_Genitive_Case,9,mandens, = the man's
-8_Genitive_Case,10,bjørnens, = the bear's
-8_Genitive_Case,11,en piges, = a girl's
-8_Genitive_Case,12,pigens, = the girl's
-8_Genitive_Case,13,en drengs, = a boy's
-8_Genitive_Case,14,drengens, = the boy's
-8_Genitive_Case,15,andens, = the duck's
-8_Genitive_Case,16,kvinders, = women's
-8_Genitive_Case,17,kvindernes, = the women's
-8_Genitive_Case,18,mænds, = men's
-8_Genitive_Case,19,mændenes, = the men's
-8_Genitive_Case,20,fiskens, = the fish's
-7_Plurals,1,heste, = horses
-7_Plurals,2,hunde, = dogs
-7_Plurals,3,katte, = cats
-7_Plurals,4,ænder, = ducks
-7_Plurals,5,bøger, = books
-7_Plurals,6,aviser, = newspapers
-7_Plurals,7,børn, = children
-7_Plurals,8,fugle, = birds
-7_Plurals,9,æbler, = apples
-7_Plurals,10,appelsiner, = oranges
-7_Plurals,11,frugter, = fruit/fruits
-7_Plurals,12,tallerkner, = plates
-7_Plurals,13,bjørne, = bears
-7_Plurals,14,elefanter, = elephants
-7_Plurals,15,skildpadder, = turtles
-7_Plurals,16,vegetarer, = vegetarians
-7_Plurals,17,sandwiches, = sandwiches
-7_Plurals,18,kartofler, = potatoes
-9_Possessive_Pronouns,1,min, = my/mine (for en- words)
-9_Possessive_Pronouns,2,mine, = my/mine (plural)
-9_Possessive_Pronouns,3,mit, = my/mine (for et- words)
-9_Possessive_Pronouns,4,din, = your/yours (for en- words)
-9_Possessive_Pronouns,5,dine, = your/yours (plural)
-9_Possessive_Pronouns,6,dit, = your/yours (et- words)
-9_Possessive_Pronouns,7,hans, = his
-9_Possessive_Pronouns,8,hendes, = her
-9_Possessive_Pronouns,9,dens, = its
-9_Possessive_Pronouns,10,dets, = its
-9_Possessive_Pronouns,11,vores, = our/ours
-9_Possessive_Pronouns,12,jeres, = your/yours (plural)
-9_Possessive_Pronouns,13,deres, = theirs
-9_Possessive_Pronouns,14,sin, = his/her/its
-9_Possessive_Pronouns,15,sine, = his/her/its
-9_Possessive_Pronouns,16,sit, = his/her/its
+01_Basics_1,0,drenge, = boys (en- word)
+01_Basics_1,1,drengen, = the boy
+01_Basics_1,10,kvinder, = the woman
+01_Basics_1,11,pigerne, = the girls
+01_Basics_1,12,drengene, = the boys
+01_Basics_1,13,avisen, = the newspaper
+01_Basics_1,14,sandwich, = sandwich
+01_Basics_1,15,menu, = menu (en- word)
+01_Basics_1,16,menuen =, the menu
+01_Basics_1,17,bog, = book
+01_Basics_1,18,har, = have/has
+01_Basics_1,19,barn, = child (et- word)
+01_Basics_1,2,piger, = girls (en- word)
+01_Basics_1,20,I, = you (pl.)
+01_Basics_1,21,det," = it, that, the"
+01_Basics_1,22,kvinderen, = the women
+01_Basics_1,23,mændene, = the men
+01_Basics_1,3,pigen, = the girl
+01_Basics_1,4,mælk, = milk
+01_Basics_1,5,læser," = read, reads, am/is/are reading"
+01_Basics_1,6,avis, = newspaper (en- word)
+01_Basics_1,7,vi, = we
+01_Basics_1,8,ris, = rice
+01_Basics_1,9,mænd, = the man
+02_Basics_2,0,kaffe, = coffee
+02_Basics_2,1,vin, = wine
+02_Basics_2,10,is," = ice cream, ice"
+02_Basics_2,11,frokost, = lunch
+02_Basics_2,12,saft, = juice
+02_Basics_2,13,morgenmad, = breakfast
+02_Basics_2,14,frugt, = fruit
+02_Basics_2,15,ost, = cheese
+02_Basics_2,16,kage, = cake
+02_Basics_2,17,jordbær, = strawberry
+02_Basics_2,18,bøf, = steak
+02_Basics_2,19,mad, = food
+02_Basics_2,2,appelsin, = orange (the fruit) (en- word)
+02_Basics_2,20,citron, = lemon
+02_Basics_2,21,suppe, = soup
+02_Basics_2,22,tomat, = tomato (en- word)
+02_Basics_2,23,øl, - beer (en- word)
+02_Basics_2,24,svinekød, = pork
+02_Basics_2,25,kød, = meat
+02_Basics_2,26,aftensmad, = dinner
+02_Basics_2,27,te, = tea
+02_Basics_2,28,olie, = oil
+02_Basics_2,29,salt, = salt
+02_Basics_2,3,kylling, = chicken
+02_Basics_2,30,vegetar, = vegetarian
+02_Basics_2,31,måltid, = meal (et- word)
+02_Basics_2,4,æg ,= egg
+02_Basics_2,5,tallerken ,= plate (en- word)
+02_Basics_2,6,fisk, = fish
+02_Basics_2,7,kartoffel, = potato
+02_Basics_2,8,sukker ,= sugar
+02_Basics_2,9,pasta, = pasta
+03_Phrases,0,hej," = hello, bye"
+03_Phrases,1,ja, = yes
+03_Phrases,10,siger," = say/says, am/is/are saying"
+03_Phrases,11,siger undskyld, = (I/you/he/she/it/we/they) apologise/apologises
+03_Phrases,12,ikke," = not, do/does not"
+03_Phrases,13,goddag, = good day/hello
+03_Phrases,14,godnat, = good night
+03_Phrases,15,engelsk, = English
+03_Phrases,16,snakker,"talk/talks, am/is/are talking"
+03_Phrases,17,måske, = maybe
+03_Phrases,2,farvel," = goodbye/bye, farewell"
+03_Phrases,3,nej, = no
+03_Phrases,4,tak," = thank you/thanks, please"
+03_Phrases,5,godmorgen, = good morning
+03_Phrases,6,godaften, = good evening
+03_Phrases,7,glad, = happy/fond
+03_Phrases,8,velkommen," = welcome (as in ""Welcome to Denmark"")"
+03_Phrases,9,undskyld, = sorry/excuse me
+04_Food,0,mælken, = the milk (en- word)
+04_Food,1,sandwichen, = the sandwich (en- word)
+04_Food,10,saften, = the juice (en- word)
+04_Food,11,morgenmaden, = the breakfast (en- word)
+04_Food,12,frokosten, = the lunch (en- word)
+04_Food,13,osten, = the cheese (en- word)
+04_Food,14,pastaen, = the pasta (en- word)
+04_Food,15,vinen, = the wine (en- word)
+04_Food,16,fisken, = the fish (en- word)
+04_Food,17,sukkeret, = the sugar (et- word)
+04_Food,18,aviserne, = the newspapers
+04_Food,19,dyrene, = the animals
+04_Food,2,appelsinen, = the apple (en- word)
+04_Food,20,bøgerne, = the books
+04_Food,21,kattene, = the cats
+04_Food,22,frugterne, = the fruits
+04_Food,23,æblerne = ,the apples
+04_Food,24,hestene, = the horses
+04_Food,25,hundene, = the dogs
+04_Food,26,bjørnene, = the bears
+04_Food,27,maden, = the food (en- word)
+04_Food,28,øllen, = the beer (en- word)
+04_Food,29,jordbæret, = the strawberry (et- word)
+04_Food,3,tallerkenen, = the plate (en- word)
+04_Food,30,risene, = the rice
+04_Food,31,tomaten, = the tomato (en- word)
+04_Food,32,skildpadderne, = the turtles
+04_Food,33,bøffen = ,the steak (en- word)
+04_Food,34,suppen, = the soup (en- word)
+04_Food,35,saltet, = the salt (et- word)
+04_Food,36,vegetarene, = the vegetarians
+04_Food,37,svinekødet = ,the pork (et- word)
+04_Food,38,olien, = the oil (en- word)
+04_Food,39,citronen, = the lemon (en- word)
+04_Food,4,kaffen, = the coffee (en- word)
+04_Food,40,måltidet, = the meal (et- word)
+04_Food,41,teen, = the tea (en- word)
+04_Food,42,kødet =, the meat (et- word)
+04_Food,43,børnene ,= the children
+04_Food,44,appelsinerne ,= the oranges
+04_Food,45,aftensmaden, = the dinner (en- word)
+04_Food,5,bogen, = the book (en- word)
+04_Food,6,kyllingen, = the chicken (en- word)
+04_Food,7,barnet, = the child (et- word)
+04_Food,8,ægget, = the egg (et- word)
+04_Food,9,frugten = ,the fruit (en- word)
+05_Animals,1,dyret, = the animal (et- word)
+05_Animals,10,hesten, = the horse (en- word)
+05_Animals,11,krabben, = the crab (en- word)
+05_Animals,12,kartoflen, = the potato (en- word)
+05_Animals,13,musen, = the mouse (en- word)
+05_Animals,14,øllene, = the beers (en- word)
+05_Animals,15,edderkoppen, = the spider (en- word)
+05_Animals,16,bjørnen, = the bear (en- word)
+05_Animals,17,skildpadde ,= turtle (en- word)
+05_Animals,18,fugl, = bird (en- word)
+05_Animals,19,hest, = horse (en- word)
+05_Animals,2,kagen, = the cake (en- word)
+05_Animals,20,elefant, = elephant (en- word)
+05_Animals,21,and, = duck (en- word)
+05_Animals,22,kat, = cat (en- word)
+05_Animals,23,mus, = mouse (en- word)
+05_Animals,24,bjørn, = bear
+05_Animals,25,krabbe, = crab
+05_Animals,26,katten ,= the cat
+05_Animals,27,dyr, = animal (et- word)
+05_Animals,28,hund, = dog (en- word)
+05_Animals,29,hunden, = the dog
+05_Animals,3,vegetaren, = the vegetarian (en- word)
+05_Animals,30,edderkop, = spider
+05_Animals,31,løve, = lion (en- word)
+05_Animals,32,ugle, = owl (en- word)
+05_Animals,33,fuglen, = the bird
+05_Animals,4,elefanterne, = the elephants 
+05_Animals,5,tellerknerne, = the plates 
+05_Animals,6,sandwichene, = the sandwiches 
+05_Animals,7,anden, = the duck (en- word)
+05_Animals,8,skildpadden, = the turtle (en- word)
+05_Animals,9,elefanten, = the elephant (en- word)
+06_Definites,0,mælken,the milk (en- word)
+06_Definites,1,sandwichen,the sandwich (en- word)
+06_Definites,10,saften,the juice (en- word)
+06_Definites,11,morgenmaden,the breakfast (en- word)
+06_Definites,12,frokosten,the lunch (en- word)
+06_Definites,13,osten,the cheese (en- word)
+06_Definites,14,pastaen,the pasta (en- word)
+06_Definites,15,vinen,the wine (en- word)
+06_Definites,16,fisken,the fish (en- word)
+06_Definites,17,sukkeret,the sugar (et- word)
+06_Definites,18,aviserne,the newspapers
+06_Definites,19,dyrene,the animals
+06_Definites,2,appelsinen,the apple (en- word)
+06_Definites,20,bøgerne,the books
+06_Definites,21,kattene,the cats
+06_Definites,22,frugterne,the fruits
+06_Definites,23,æblerne,the apples
+06_Definites,24,hestene,the horses
+06_Definites,25,hundene,the dogs
+06_Definites,26,bjørnene,the bears
+06_Definites,27,maden,the food (en- word)
+06_Definites,28,øllen,the beer (en- word)
+06_Definites,29,jordbæret,the strawberry (et- word)
+06_Definites,3,tallerkenen,the plate (en- word)
+06_Definites,30,risene,the rice
+06_Definites,31,tomaten,the tomato (en- word)
+06_Definites,32,skildpadderne,the turtles
+06_Definites,33,bøffen,the steak (en- word)
+06_Definites,34,suppen,the soup (en- word)
+06_Definites,35,saltet,the salt (et- word)
+06_Definites,36,vegetarene,the vegetarians
+06_Definites,37,svinekødet,the pork (et- word)
+06_Definites,38,olien,the oil (en- word)
+06_Definites,39,citronen,the lemon (en- word)
+06_Definites,4,kaffen,the coffee (en- word)
+06_Definites,40,måltidet,the meal (et- word)
+06_Definites,41,teen,the tea (en- word)
+06_Definites,42,kødet,the meat (et- word)
+06_Definites,43,børnene,the children
+06_Definites,44,appelsinerne,the oranges
+06_Definites,45,aftensmaden,the dinner (en- word)
+06_Definites,46,fluglene,the birds
+06_Definites,47,dyret,the animal (et- word)
+06_Definites,48,kagen,the cake (en- word)
+06_Definites,49,vegetaren,the vegetarian (en- word)
+06_Definites,5,bogen,the book (en- word)
+06_Definites,50,elefanterne,the elephants
+06_Definites,51,tellerknerne,the plates
+06_Definites,52,sandwichene,the sandwiches
+06_Definites,53,anden,the duck (en- word)
+06_Definites,54,skildpadden,the turtle (en- word)
+06_Definites,55,elefanten,the elephant (en- word)
+06_Definites,56,hesten,the horse (en- word)
+06_Definites,57,krabben,the crab (en- word)
+06_Definites,58,kartoflen,the potato (en- word)
+06_Definites,59,musen,the mouse (en- word)
+06_Definites,6,kyllingen,the chicken (en- word)
+06_Definites,60,øllene,the beers (en- word)
+06_Definites,61,edderkoppen,the spider (en- word)
+06_Definites,62,bjørnen,the bear (en- word)
+06_Definites,7,barnet,the child (et- word)
+06_Definites,8,ægget,the egg (et- word)
+06_Definites,9,frugten,the fruit (en- word)
+07_Plurals,1,heste, = horses
+07_Plurals,10,appelsiner, = oranges
+07_Plurals,11,frugter, = fruit/fruits
+07_Plurals,12,tallerkner, = plates
+07_Plurals,13,bjørne, = bears
+07_Plurals,14,elefanter, = elephants
+07_Plurals,15,skildpadder, = turtles
+07_Plurals,16,vegetarer, = vegetarians
+07_Plurals,17,sandwiches, = sandwiches
+07_Plurals,18,kartofler, = potatoes
+07_Plurals,2,hunde, = dogs
+07_Plurals,3,katte, = cats
+07_Plurals,4,ænder, = ducks
+07_Plurals,5,bøger, = books
+07_Plurals,6,aviser, = newspapers
+07_Plurals,7,børn, = children
+07_Plurals,8,fugle, = birds
+07_Plurals,9,æbler, = apples
+08_Genitive_Case,1,mig, = me
+08_Genitive_Case,10,bjørnens, = the bear's
+08_Genitive_Case,11,en piges, = a girl's
+08_Genitive_Case,12,pigens, = the girl's
+08_Genitive_Case,13,en drengs, = a boy's
+08_Genitive_Case,14,drengens, = the boy's
+08_Genitive_Case,15,andens, = the duck's
+08_Genitive_Case,16,kvinders, = women's
+08_Genitive_Case,17,kvindernes, = the women's
+08_Genitive_Case,18,mænds, = men's
+08_Genitive_Case,19,mændenes, = the men's
+08_Genitive_Case,2,dig, = you
+08_Genitive_Case,20,fiskens, = the fish's
+08_Genitive_Case,3,ham, = him
+08_Genitive_Case,4,hende, = her
+08_Genitive_Case,5,dem, = them
+08_Genitive_Case,6,en kvindes, = a woman's
+08_Genitive_Case,7,kvindens, = the woman's
+08_Genitive_Case,8,en mands, = a man's
+08_Genitive_Case,9,mandens, = the man's
+09_Possessive_Pronouns,1,min, = my/mine (for en- words)
+09_Possessive_Pronouns,10,dets, = its
+09_Possessive_Pronouns,11,vores, = our/ours
+09_Possessive_Pronouns,12,jeres, = your/yours (plural)
+09_Possessive_Pronouns,13,deres, = theirs
+09_Possessive_Pronouns,14,sin, = his/her/its
+09_Possessive_Pronouns,15,sine, = his/her/its
+09_Possessive_Pronouns,16,sit, = his/her/its
+09_Possessive_Pronouns,2,mine, = my/mine (plural)
+09_Possessive_Pronouns,3,mit, = my/mine (for et- words)
+09_Possessive_Pronouns,4,din, = your/yours (for en- words)
+09_Possessive_Pronouns,5,dine, = your/yours (plural)
+09_Possessive_Pronouns,6,dit, = your/yours (et- words)
+09_Possessive_Pronouns,7,hans, = his
+09_Possessive_Pronouns,8,hendes, = her
+09_Possessive_Pronouns,9,dens, = its
 10_Objective_Pronouns,1,mig, = me
+10_Objective_Pronouns,10,jer, = you (plural)
 10_Objective_Pronouns,2,dig, = you
 10_Objective_Pronouns,3,ham, = him
 10_Objective_Pronouns,4,hende, = her
@@ -278,16 +279,7 @@ idx,les,dk,en
 10_Objective_Pronouns,7,den, = it/that
 10_Objective_Pronouns,8,det, = it/that
 10_Objective_Pronouns,9,os, = us
-10_Objective_Pronouns,10,jer, = you (plural)
 11_Clothing,1,har,= have/has
-11_Clothing,2,på,= on
-11_Clothing,3,har på,= wear/wears / am/is/are wearing
-11_Clothing,4,frakke,= coat
-11_Clothing,5,nederdel,= skirt
-11_Clothing,6,nederdelen,= the skirt
-11_Clothing,7,nederdele,= skirts
-11_Clothing,8,kjole,= dress
-11_Clothing,9,kjoler,= dresses
 11_Clothing,10,sko,= shoe
 11_Clothing,11,en jakke,= a jacket
 11_Clothing,12,jakken,= the jacket
@@ -298,21 +290,23 @@ idx,les,dk,en
 11_Clothing,17,strømpe,= sock
 11_Clothing,18,strømper,= socks
 11_Clothing,19,hat,= hat
+11_Clothing,2,på,= on
 11_Clothing,20,hattene,= the hats
 11_Clothing,21,jakkesæt,= suit
 11_Clothing,22,jakkesættet,= the suit
 11_Clothing,23,tøj,= clothes
 11_Clothing,24,tøjet,= the clothes
+11_Clothing,3,har på,= wear/wears / am/is/are wearing
+11_Clothing,4,frakke,= coat
+11_Clothing,5,nederdel,= skirt
+11_Clothing,6,nederdelen,= the skirt
+11_Clothing,7,nederdele,= skirts
+11_Clothing,8,kjole,= dress
+11_Clothing,9,kjoler,= dresses
 12_VerbsPresent_1,0,går," = walk/walks, am/is/are walking"
+12_VerbsPresent_1,0,har, = have/has
 12_VerbsPresent_1,1,løber," = run/runs, am/is/are running"
-12_VerbsPresent_1,2,ser," = see/sees, am/is/are seeing"
-12_VerbsPresent_1,3,skriver," = write/writes, am/is/are writing"
-12_VerbsPresent_1,4,sover," = sleep/sleeps, am/is/are sleeping"
-12_VerbsPresent_1,5,svømmer," = swim/swims, am/is/are swimming"
-12_VerbsPresent_1,6,rører," = touch/touches, am/is/are touching"
-12_VerbsPresent_1,7,koger, = boil/boils
-12_VerbsPresent_1,8,laver, = make/makes
-12_VerbsPresent_1,9,synger, = sing/sings
+12_VerbsPresent_1,1,på, = on
 12_VerbsPresent_1,10,gerne have, = like/want/wants to have
 12_VerbsPresent_1,11,betaler, = pay/pays
 12_VerbsPresent_1,12,kan godt lide, = like/likes
@@ -323,6 +317,8 @@ idx,les,dk,en
 12_VerbsPresent_1,17,bruger, = use/uses
 12_VerbsPresent_1,18,elsker, = love/loves
 12_VerbsPresent_1,19,regner," = rain/rains, raining"
+12_VerbsPresent_1,2,har på, = wear/wears / am/is/are wearing
+12_VerbsPresent_1,2,ser," = see/sees, am/is/are seeing"
 12_VerbsPresent_1,20,fortæller," = tell/tells, telling"
 12_VerbsPresent_1,21,om, = about
 12_VerbsPresent_1,22,arbejder," = work/words, working"
@@ -333,13 +329,17 @@ idx,les,dk,en
 12_VerbsPresent_1,27,til, = to
 12_VerbsPresent_1,28,behøver, = need/needs
 12_VerbsPresent_1,29,får, = get/gets
+12_VerbsPresent_1,3,skriver," = write/writes, am/is/are writing"
 12_VerbsPresent_1,30,kender, = know/knows (someone/someplace)
 12_VerbsPresent_1,31,designer, = design/designs
 12_VerbsPresent_1,32,viser, = show/shows
 12_VerbsPresent_1,33,støtter, = support/supports
-12_VerbsPresent_1,0,har, = have/has
-12_VerbsPresent_1,1,på, = on
-12_VerbsPresent_1,2,har på, = wear/wears / am/is/are wearing
+12_VerbsPresent_1,4,sover," = sleep/sleeps, am/is/are sleeping"
+12_VerbsPresent_1,5,svømmer," = swim/swims, am/is/are swimming"
+12_VerbsPresent_1,6,rører," = touch/touches, am/is/are touching"
+12_VerbsPresent_1,7,koger, = boil/boils
+12_VerbsPresent_1,8,laver, = make/makes
+12_VerbsPresent_1,9,synger, = sing/sings
 13_Colors,0,blå, = blue
 13_Colors,1,grønt, = green
 13_Colors,2,gult, = yellow
@@ -359,14 +359,6 @@ idx,les,dk,en
 14_Questions,7,mens, = while/when
 15_Prepositions_1,0,fra, = from
 15_Prepositions_1,1,i, = in
-15_Prepositions_1,2,ved = ,next to
-15_Prepositions_1,3,rører ved, = touch/touches
-15_Prepositions_1,4,med, = with
-15_Prepositions_1,5,uden, = without
-15_Prepositions_1,6,til, = to
-15_Prepositions_1,7,om, = about
-15_Prepositions_1,8,af, = off
-15_Prepositions_1,9,bag, = behind
 15_Prepositions_1,10,efter, = after
 15_Prepositions_1,11,under, = under
 15_Prepositions_1,12,omkring, = around
@@ -377,8 +369,20 @@ idx,les,dk,en
 15_Prepositions_1,17,for, = for
 15_Prepositions_1,18,mellem, = between
 15_Prepositions_1,19,på, = on
+15_Prepositions_1,2,ved = ,next to
+15_Prepositions_1,3,rører ved, = touch/touches
+15_Prepositions_1,4,med, = with
+15_Prepositions_1,5,uden, = without
+15_Prepositions_1,6,til, = to
+15_Prepositions_1,7,om, = about
+15_Prepositions_1,8,af, = off
+15_Prepositions_1,9,bag, = behind
 16_Conjunctions,0,hvad ,= what
 16_Conjunctions,1,hvor, = where
+16_Conjunctions,10,et, 
+16_Conjunctions,11,svar, = an answer
+16_Conjunctions,12,svaret, = the answer
+16_Conjunctions,13,svarene, = the answers
 16_Conjunctions,2,hvordan, = how
 16_Conjunctions,3,hvem, = who
 16_Conjunctions,4,hvis, = whose
@@ -387,19 +391,7 @@ idx,les,dk,en
 16_Conjunctions,7,hvornår, = when
 16_Conjunctions,8,et spørgsmål, = a question
 16_Conjunctions,9,spørgsmålene, = the questions
-16_Conjunctions,10,et, 
-16_Conjunctions,11,svar, = an answer
-16_Conjunctions,12,svaret, = the answer
-16_Conjunctions,13,svarene, = the answers
 17_Time,1,morgen,= morning
-17_Time,2,formiddagen,= the morning
-17_Time,3,formiddagene,= the mornings
-17_Time,4,eftermiddag,= afternoon
-17_Time,5,eftermiddagen,= the afternoon
-17_Time,6,i dag,= today
-17_Time,7,i aften,= tonight
-17_Time,8,i morgen,= tomorrow
-17_Time,9,tid,= time
 17_Time,10,nat,= night
 17_Time,11,mandag,= Monday
 17_Time,12,tirsdag,= Tuesday
@@ -410,6 +402,7 @@ idx,les,dk,en
 17_Time,17,fredag,= Friday
 17_Time,18,fredagen,= the Friday
 17_Time,19,hverdag,= weekday
+17_Time,2,formiddagen,= the morning
 17_Time,20,hverdage,= weekdays
 17_Time,21,hverdagene,= the weekdays
 17_Time,22,kalender,= calendar
@@ -420,6 +413,7 @@ idx,les,dk,en
 17_Time,27,weekenden,= the weekend
 17_Time,28,alder,= age
 17_Time,29,alderen,= the age
+17_Time,3,formiddagene,= the mornings
 17_Time,30,aldrene,= the ages
 17_Time,31,en time,= an hour
 17_Time,32,en uge,= a week
@@ -430,6 +424,7 @@ idx,les,dk,en
 17_Time,37,dato,= date
 17_Time,38,datoen,= the date
 17_Time,39,januar,= January
+17_Time,4,eftermiddag,= afternoon
 17_Time,40,februar,= February
 17_Time,41,marts,= March
 17_Time,42,april,= April
@@ -440,6 +435,7 @@ idx,les,dk,en
 17_Time,47,sæsonerne,= the seasons
 17_Time,48,juli,= July
 17_Time,49,august,= August
+17_Time,5,eftermiddagen,= the afternoon
 17_Time,50,september,= September
 17_Time,51,oktober,= October
 17_Time,52,november,= November
@@ -450,6 +446,7 @@ idx,les,dk,en
 17_Time,57,perioden,= the period
 17_Time,58,perioderne,= the periods
 17_Time,59,vinter,= Winter
+17_Time,6,i dag,= today
 17_Time,60,vinteren,= the Winter
 17_Time,61,forår,= Spring
 17_Time,62,foråret,= the Spring
@@ -460,6 +457,7 @@ idx,les,dk,en
 17_Time,67,fødslen,= the birth
 17_Time,68,fødslerne,= the births
 17_Time,69,generation,= generation
+17_Time,7,i aften,= tonight
 17_Time,70,generationen,= the generation
 17_Time,71,et marked,= a market
 17_Time,72,markedet,= the market/fair
@@ -470,6 +468,7 @@ idx,les,dk,en
 17_Time,77,et øjeblik,= a moment
 17_Time,78,øjeblikket,= the moment
 17_Time,79,i øjeblikket,= currently
+17_Time,8,i morgen,= tomorrow
 17_Time,80,midnat,= midnight
 17_Time,81,et sekund,= a second
 17_Time,82,sekunder,= seconds
@@ -478,16 +477,9 @@ idx,les,dk,en
 17_Time,85,en smule,= a bit
 17_Time,86,middag,= noon
 17_Time,87,indtil,= until
+17_Time,9,tid,= time
 18_Family,0,forældre, = parents
 18_Family,1,forældrene, = the parents
-18_Family,2,far, = father
-18_Family,3,faren, = the father
-18_Family,4,mor, = mother
-18_Family,5,moren, = the mother
-18_Family,6,bror, = brother
-18_Family,7,søster, = sister
-18_Family,8,søn, = son
-18_Family,9,sønner, = sons
 18_Family,10,sønnerne, = the sons
 18_Family,11,datteren, = the daughter
 18_Family,12,døtre, = daughters
@@ -498,6 +490,7 @@ idx,les,dk,en
 18_Family,17,kone, = wife
 18_Family,18,koner, = wives
 18_Family,19,onkel, = uncle
+18_Family,2,far, = father
 18_Family,20,onkler, = uncles
 18_Family,21,tante, = aunt
 18_Family,22,tanter, = aunts
@@ -508,6 +501,7 @@ idx,les,dk,en
 18_Family,27,bedstefædre, = grandfathers
 18_Family,28,bedstefaren, = the grandfather
 18_Family,29,bedstemor, = grandmother
+18_Family,3,faren, = the father
 18_Family,30,bedstemødre, = grandmothers
 18_Family,31,gæst, = guest
 18_Family,32,gæsten, = the guest
@@ -516,16 +510,14 @@ idx,les,dk,en
 18_Family,35,legetøj, = toy
 18_Family,36,en leg, = a game
 18_Family,37,et navn, = a name
+18_Family,4,mor, = mother
+18_Family,5,moren, = the mother
+18_Family,6,bror, = brother
+18_Family,7,søster, = sister
+18_Family,8,søn, = son
+18_Family,9,sønner, = sons
 19_Occupation,0,der, = there
 19_Occupation,1,for, = too
-19_Occupation,2,hen til, = to
-19_Occupation,3,meget, = very
-19_Occupation,4,mere, = more
-19_Occupation,5,nu, = now
-19_Occupation,6,så, = so
-19_Occupation,7,aldrig, = never
-19_Occupation,8,altid, = always
-19_Occupation,9,derefter, = then
 19_Occupation,10,henne, = at
 19_Occupation,11,her, = here
 19_Occupation,12,også, = too/also
@@ -536,6 +528,7 @@ idx,les,dk,en
 19_Occupation,17,ikke engang, = not even
 19_Occupation,18,godt, = well
 19_Occupation,19,imidlertid, = however
+19_Occupation,2,hen til, = to
 19_Occupation,20,kun, = only
 19_Occupation,21,selv, = even
 19_Occupation,22,stadig, = still
@@ -546,6 +539,7 @@ idx,les,dk,en
 19_Occupation,27,lidt, = a bit
 19_Occupation,28,for lidt, = too little?
 19_Occupation,29,nogensinde, = ever
+19_Occupation,3,meget, = very
 19_Occupation,30,mindst, = least
 19_Occupation,31,i det mindste, = at least
 19_Occupation,32,væk, = away
@@ -556,6 +550,7 @@ idx,les,dk,en
 19_Occupation,37,længe, = long (
 19_Occupation,38,time,"), long a time"
 19_Occupation,39,sædvanligvis, = usually
+19_Occupation,4,mere, = more
 19_Occupation,40,senere, = later
 19_Occupation,41,snart, = soon
 19_Occupation,42,tilstrækkeligt, = enough
@@ -566,6 +561,7 @@ idx,les,dk,en
 19_Occupation,47,mens, = while
 19_Occupation,48,næsten, = almost
 19_Occupation,49,nemt, = easily
+19_Occupation,5,nu, = now
 19_Occupation,50,om, = during/in
 19_Occupation,51,sent, = late
 19_Occupation,52,sommetider, = sometimes
@@ -576,6 +572,7 @@ idx,les,dk,en
 19_Occupation,57,omtrent, = approximately
 19_Occupation,58,præcis, = exactly
 19_Occupation,59,præcist, = exactly
+19_Occupation,6,så, = so
 19_Occupation,60,tydeligt, = clearly
 19_Occupation,61,ude, = out/outside
 19_Occupation,62,lige meget = ,it does not matter
@@ -586,18 +583,13 @@ idx,les,dk,en
 19_Occupation,67,normalt, = normally
 19_Occupation,68,perfekt, = perfect/perfectly
 19_Occupation,69,personligt, = personal
+19_Occupation,7,aldrig, = never
 19_Occupation,70,langsomt, = slowly
 19_Occupation,71,sammen, = together
+19_Occupation,8,altid, = always
+19_Occupation,9,derefter, = then
 20_Adjectives_1,0,studerende, = student
 20_Adjectives_1,1,doktor, = doctor
-20_Adjectives_1,2,doktorer, = doctors
-20_Adjectives_1,3,en forfatter, = an author
-20_Adjectives_1,4,forfattere, = authors
-20_Adjectives_1,5,en model, = a model
-20_Adjectives_1,6,modellen, = the model
-20_Adjectives_1,7,modeller, = models
-20_Adjectives_1,8,personalet, = the staff
-20_Adjectives_1,9,et job, = a job
 20_Adjectives_1,10,arbejde, = work/job
 20_Adjectives_1,11,arbejdet, = the work/job
 20_Adjectives_1,12,en advokat, = a lawyer
@@ -608,6 +600,7 @@ idx,les,dk,en
 20_Adjectives_1,17,kunstner, = artist
 20_Adjectives_1,18,kunstneren, = the artist
 20_Adjectives_1,19,ninjaer, = ninjas
+20_Adjectives_1,2,doktorer, = doctors
 20_Adjectives_1,20,ninjaen, = the ninja
 20_Adjectives_1,21,ninjaerne, = the ninjas
 20_Adjectives_1,22,politi, = police
@@ -618,6 +611,7 @@ idx,les,dk,en
 20_Adjectives_1,27,karriere, = career
 20_Adjectives_1,28,betjent, = police officer
 20_Adjectives_1,29,en betjent, = a police officer
+20_Adjectives_1,3,en forfatter, = an author
 20_Adjectives_1,30,en borgmester, = a mayor
 20_Adjectives_1,31,dommer, = judge/referee
 20_Adjectives_1,32,en dommer, = a judge/referee
@@ -629,6 +623,7 @@ idx,les,dk,en
 20_Adjectives_1,37,soldat, = soldier
 20_Adjectives_1,38,soldater, = soldiers
 20_Adjectives_1,39,soldaterne, = the soldiers
+20_Adjectives_1,4,forfattere, = authors
 20_Adjectives_1,40,vagt, = guard
 20_Adjectives_1,41,en vagt, = a guard
 20_Adjectives_1,42,arkitekt, = architect
@@ -639,6 +634,7 @@ idx,les,dk,en
 20_Adjectives_1,47,erhvervet, = the profession
 20_Adjectives_1,48,en ingeniør, = an engineer
 20_Adjectives_1,49,ingeniøren, = the engineer
+20_Adjectives_1,5,en model, = a model
 20_Adjectives_1,50,kok, = cook/chef
 20_Adjectives_1,51,kokke, = cooks/chefs
 20_Adjectives_1,52,landmand, = farmer
@@ -646,15 +642,11 @@ idx,les,dk,en
 20_Adjectives_1,54,servitrice, = waitress
 20_Adjectives_1,55,tjener, = waiter/servant
 20_Adjectives_1,56,tjeneren, = the waiter/servant
+20_Adjectives_1,6,modellen, = the model
+20_Adjectives_1,7,modeller, = models
+20_Adjectives_1,8,personalet, = the staff
+20_Adjectives_1,9,et job, = a job
 21_VerbsPresent_2,1,åbner,= open/opens
-21_VerbsPresent_2,2,ændrer,= change/changes/changing
-21_VerbsPresent_2,3,ændrer på,= alter/alters/altering
-21_VerbsPresent_2,4,gemmer sig,= hide/hides/hiding
-21_VerbsPresent_2,5,kalder på,= call/calls/calling for
-21_VerbsPresent_2,6,redder,= save/saves/saving/ rescue/rescues/rescuing
-21_VerbsPresent_2,7,ringer,= call/calls/rings
-21_VerbsPresent_2,8,ringer til,= call/calls to
-21_VerbsPresent_2,9,tænker,= think/thinks/thinking
 21_VerbsPresent_2,10,bor,= live/lives/living (in a house)
 21_VerbsPresent_2,11,giver,= give/gives/giving
 21_VerbsPresent_2,12,kigger,= look/looks/looking
@@ -665,6 +657,7 @@ idx,les,dk,en
 21_VerbsPresent_2,17,inkluderer,= include/includes/including
 21_VerbsPresent_2,18,præsenterer,= present/presents/presenting/ introduce/introduces/introducing
 21_VerbsPresent_2,19,prøver,= try/tries/trying
+21_VerbsPresent_2,2,ændrer,= change/changes/changing
 21_VerbsPresent_2,20,spørger,= ask/asks/asking
 21_VerbsPresent_2,21,taler,= speak/speaks/speaking
 21_VerbsPresent_2,22,underskriver,= sign/signs/signing
@@ -675,6 +668,7 @@ idx,les,dk,en
 21_VerbsPresent_2,27,står,= stand/stands/standing/ written (on the page)
 21_VerbsPresent_2,28,stopper,= stop/stops/stopping
 21_VerbsPresent_2,29,synes,= think/thinks/thinking (an opinion)/ like/likes
+21_VerbsPresent_2,3,ændrer på,= alter/alters/altering
 21_VerbsPresent_2,30,håber,= hope/hopes
 21_VerbsPresent_2,31,håber på det,= hope/hopes so
 21_VerbsPresent_2,32,opdrager,= raise/raises/raising
@@ -685,6 +679,7 @@ idx,les,dk,en
 21_VerbsPresent_2,37,danser,= dance/dances/dancing
 21_VerbsPresent_2,38,følger,= follow/follows/folllowing
 21_VerbsPresent_2,39,overvejer,= consider/considers/considering
+21_VerbsPresent_2,4,gemmer sig,= hide/hides/hiding
 21_VerbsPresent_2,40,returnerer,= return/returns
 21_VerbsPresent_2,41,takker,= thank/thanks
 21_VerbsPresent_2,42,vender tilbage,= returning
@@ -693,15 +688,13 @@ idx,les,dk,en
 21_VerbsPresent_2,45,slutter,= end/ends/ending
 21_VerbsPresent_2,46,stoler på,= trust/trusts
 21_VerbsPresent_2,47,svarer,= answer/answers/answering
+21_VerbsPresent_2,5,kalder på,= call/calls/calling for
+21_VerbsPresent_2,6,redder,= save/saves/saving/ rescue/rescues/rescuing
+21_VerbsPresent_2,7,ringer,= call/calls/rings
+21_VerbsPresent_2,8,ringer til,= call/calls to
+21_VerbsPresent_2,9,tænker,= think/thinks/thinking
 22_Adverbs,0,åbner, = open/opens
 22_Adverbs,1,ændrer, = change/changes/changing
-22_Adverbs,2,ændrer på, = alter/alters/altering
-22_Adverbs,3,gemmer sig, = hide/hides/hiding
-22_Adverbs,4,kalder på, = call/calls/calling for
-22_Adverbs,5,redder," = save/saves/saving, rescue/rescues/rescuing"
-22_Adverbs,6,ringer, = call/calls/rings
-22_Adverbs,7,ringer til, = call/calls to
-22_Adverbs,9,tænker, = think/thinks/thinking
 22_Adverbs,10,bor, = live/lives/living (in a house)
 22_Adverbs,11,giver, = give/gives/giving
 22_Adverbs,12,kigger, = look/looks/looking
@@ -712,6 +705,7 @@ idx,les,dk,en
 22_Adverbs,17,inkluderer, = include/includes/including
 22_Adverbs,18,præsenterer, "= present/presents/presenting, introduce/introduces/introducing"
 22_Adverbs,19,prøver, = try/tries/trying
+22_Adverbs,2,ændrer på, = alter/alters/altering
 22_Adverbs,20,spørger, = ask/asks/asking
 22_Adverbs,21,taler, = speak/speaks/speaking
 22_Adverbs,22,underskriver, = sign/signs/signing
@@ -722,6 +716,7 @@ idx,les,dk,en
 22_Adverbs,27,står, "= stand/stands/standing, written (on the page)"
 22_Adverbs,28,stopper, = stop/stops/stopping
 22_Adverbs,29,synes, "= think/thinks/thinking (an opinion), like/likes"
+22_Adverbs,3,gemmer sig, = hide/hides/hiding
 22_Adverbs,30,håber, = hope/hopes
 22_Adverbs,31,håber på det, = hope/hopes so
 22_Adverbs,32,opdrager, = raise/raises/raising
@@ -732,6 +727,7 @@ idx,les,dk,en
 22_Adverbs,37,danser, = dance/dances/dancing
 22_Adverbs,38,følger, = follow/follows/folllowing
 22_Adverbs,39,overvejer, = consider/considers/considering
+22_Adverbs,4,kalder på, = call/calls/calling for
 22_Adverbs,40,returnerer, = return/returns
 22_Adverbs,41,takker, = thank/thanks
 22_Adverbs,42,vender tilbage, = returning
@@ -740,3 +736,7 @@ idx,les,dk,en
 22_Adverbs,45,slutter, = end/ends/ending
 22_Adverbs,46,stoler på, = trust/trusts
 22_Adverbs,47,svarer, = answer/answers/answering
+22_Adverbs,5,redder," = save/saves/saving, rescue/rescues/rescuing"
+22_Adverbs,6,ringer, = call/calls/rings
+22_Adverbs,7,ringer til, = call/calls to
+22_Adverbs,9,tænker, = think/thinks/thinking
