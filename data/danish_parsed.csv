@@ -7,25 +7,25 @@ idx,les,dk,en
 01_Basics_1,13,avisen, = the newspaper
 01_Basics_1,14,sandwich, = sandwich
 01_Basics_1,15,menu, = menu (en- word)
-01_Basics_1,16,menuen =, the menu
+01_Basics_1,16,menuen, = the menu
 01_Basics_1,17,bog, = book
 01_Basics_1,18,har, = have/has
 01_Basics_1,19,barn, = child (et- word)
 01_Basics_1,2,piger, = girls (en- word)
 01_Basics_1,20,I, = you (pl.)
-01_Basics_1,21,det," = it, that, the"
+01_Basics_1,21,det," = it/ that/ the"
 01_Basics_1,22,kvinderen, = the women
 01_Basics_1,23,mændene, = the men
 01_Basics_1,3,pigen, = the girl
 01_Basics_1,4,mælk, = milk
-01_Basics_1,5,læser," = read, reads, am/is/are reading"
+01_Basics_1,5,læser," = read/ reads/ am/is/are reading"
 01_Basics_1,6,avis, = newspaper (en- word)
 01_Basics_1,7,vi, = we
 01_Basics_1,8,ris, = rice
 01_Basics_1,9,mænd, = the man
 02_Basics_2,0,kaffe, = coffee
 02_Basics_2,1,vin, = wine
-02_Basics_2,10,is," = ice cream, ice"
+02_Basics_2,10,is," = ice cream/ ice"
 02_Basics_2,11,frokost, = lunch
 02_Basics_2,12,saft, = juice
 02_Basics_2,13,morgenmad, = breakfast
@@ -39,7 +39,7 @@ idx,les,dk,en
 02_Basics_2,20,citron, = lemon
 02_Basics_2,21,suppe, = soup
 02_Basics_2,22,tomat, = tomato (en- word)
-02_Basics_2,23,øl, - beer (en- word)
+02_Basics_2,23,øl, = beer (en- word)
 02_Basics_2,24,svinekød, = pork
 02_Basics_2,25,kød, = meat
 02_Basics_2,26,aftensmad, = dinner
@@ -55,19 +55,19 @@ idx,les,dk,en
 02_Basics_2,7,kartoffel, = potato
 02_Basics_2,8,sukker ,= sugar
 02_Basics_2,9,pasta, = pasta
-03_Phrases,0,hej," = hello, bye"
+03_Phrases,0,hej," = hello/ bye"
 03_Phrases,1,ja, = yes
-03_Phrases,10,siger," = say/says, am/is/are saying"
+03_Phrases,10,siger," = say/says/ am/is/are saying"
 03_Phrases,11,siger undskyld, = (I/you/he/she/it/we/they) apologise/apologises
-03_Phrases,12,ikke," = not, do/does not"
+03_Phrases,12,ikke," = not/ do/does not"
 03_Phrases,13,goddag, = good day/hello
 03_Phrases,14,godnat, = good night
 03_Phrases,15,engelsk, = English
-03_Phrases,16,snakker,"talk/talks, am/is/are talking"
+03_Phrases,16,snakker,"talk/talks/ am/is/are talking"
 03_Phrases,17,måske, = maybe
-03_Phrases,2,farvel," = goodbye/bye, farewell"
+03_Phrases,2,farvel," = goodbye/bye/ farewell"
 03_Phrases,3,nej, = no
-03_Phrases,4,tak," = thank you/thanks, please"
+03_Phrases,4,tak," = thank you/thanks/ please"
 03_Phrases,5,godmorgen, = good morning
 03_Phrases,6,godaften, = good evening
 03_Phrases,7,glad, = happy/fond
@@ -110,7 +110,7 @@ idx,les,dk,en
 04_Food,4,kaffen, = the coffee (en- word)
 04_Food,40,måltidet, = the meal (et- word)
 04_Food,41,teen, = the tea (en- word)
-04_Food,42,kødet =, the meat (et- word)
+04_Food,42,kødet, = the meat (et- word)
 04_Food,43,børnene ,= the children
 04_Food,44,appelsinerne ,= the oranges
 04_Food,45,aftensmaden, = the dinner (en- word)
@@ -275,7 +275,6 @@ idx,les,dk,en
 10_Objective_Pronouns,3,ham, = him
 10_Objective_Pronouns,4,hende, = her
 10_Objective_Pronouns,5,dem, = them
-10_Objective_Pronouns,6,Lesson, 2
 10_Objective_Pronouns,7,den, = it/that
 10_Objective_Pronouns,8,det, = it/that
 10_Objective_Pronouns,9,os, = us
@@ -303,9 +302,9 @@ idx,les,dk,en
 11_Clothing,7,nederdele,= skirts
 11_Clothing,8,kjole,= dress
 11_Clothing,9,kjoler,= dresses
-12_VerbsPresent_1,0,går," = walk/walks, am/is/are walking"
+12_VerbsPresent_1,0,går," = walk/walks/ am/is/are walking"
 12_VerbsPresent_1,0,har, = have/has
-12_VerbsPresent_1,1,løber," = run/runs, am/is/are running"
+12_VerbsPresent_1,1,løber," = run/runs/ am/is/are running"
 12_VerbsPresent_1,1,på, = on
 12_VerbsPresent_1,10,gerne have, = like/want/wants to have
 12_VerbsPresent_1,11,betaler, = pay/pays
@@ -313,42 +312,65 @@ idx,les,dk,en
 12_VerbsPresent_1,13,leger, = play/plays (playing e.g. children playing together)
 12_VerbsPresent_1,14,spiller, = play/plays (a game with rules e.g football/cars)
 12_VerbsPresent_1,15,tager, = take/takes
-12_VerbsPresent_1,16,tager afsted," = leave/leaves, am/is/are leaving"
+12_VerbsPresent_1,16,tager afsted," = leave/leaves/ am/is/are leaving"
 12_VerbsPresent_1,17,bruger, = use/uses
 12_VerbsPresent_1,18,elsker, = love/loves
-12_VerbsPresent_1,19,regner," = rain/rains, raining"
+12_VerbsPresent_1,19,regner," = rain/rains/ raining"
 12_VerbsPresent_1,2,har på, = wear/wears / am/is/are wearing
-12_VerbsPresent_1,2,ser," = see/sees, am/is/are seeing"
-12_VerbsPresent_1,20,fortæller," = tell/tells, telling"
+12_VerbsPresent_1,2,ser," = see/sees/ am/is/are seeing"
+12_VerbsPresent_1,20,fortæller," = tell/tells/ telling"
 12_VerbsPresent_1,21,om, = about
-12_VerbsPresent_1,22,arbejder," = work/words, working"
+12_VerbsPresent_1,22,arbejder," = work/words/ working"
 12_VerbsPresent_1,23,finder, = find/finds
 12_VerbsPresent_1,24,hører, = hear/hears
-12_VerbsPresent_1,25,lytter," = listen/listens, listening"
+12_VerbsPresent_1,25,lytter," = listen/listens/ listening"
 12_VerbsPresent_1,26,ved, = know/knows (a fact)
 12_VerbsPresent_1,27,til, = to
 12_VerbsPresent_1,28,behøver, = need/needs
 12_VerbsPresent_1,29,får, = get/gets
-12_VerbsPresent_1,3,skriver," = write/writes, am/is/are writing"
+12_VerbsPresent_1,3,skriver," = write/writes/ am/is/are writing"
 12_VerbsPresent_1,30,kender, = know/knows (someone/someplace)
 12_VerbsPresent_1,31,designer, = design/designs
 12_VerbsPresent_1,32,viser, = show/shows
 12_VerbsPresent_1,33,støtter, = support/supports
-12_VerbsPresent_1,4,sover," = sleep/sleeps, am/is/are sleeping"
-12_VerbsPresent_1,5,svømmer," = swim/swims, am/is/are swimming"
-12_VerbsPresent_1,6,rører," = touch/touches, am/is/are touching"
+12_VerbsPresent_1,4,sover," = sleep/sleeps/ am/is/are sleeping"
+12_VerbsPresent_1,5,svømmer," = swim/swims/ am/is/are swimming"
+12_VerbsPresent_1,6,rører," = touch/touches/ am/is/are touching"
 12_VerbsPresent_1,7,koger, = boil/boils
 12_VerbsPresent_1,8,laver, = make/makes
 12_VerbsPresent_1,9,synger, = sing/sings
 13_Colors,0,blå, = blue
 13_Colors,1,grønt, = green
 13_Colors,2,gult, = yellow
-13_Colors,3,gule," = yellow (definite noun, or plural)"
+13_Colors,3,gule," = yellow (definite noun/ or plural)"
 13_Colors,4,hvid, = white
 13_Colors,5,hvide, = white (plural)
 13_Colors,6,rød, = red
 13_Colors,7,røde, = red (plural)
 13_Colors,8,sort, = black
+13_Colors,9,farver, = colors
+13_Colors,10,farverigt, = colorful
+13_Colors,11,farverige, = colorful (plural)
+13_Colors,12,brun, = brown
+13_Colors,13,brune, = brown (definite noun/ or plural)
+13_Colors,14,brunt, = brown (neuter et- word)
+13_Colors,15,grå, = gray
+13_Colors,16,lilla, = purple
+13_Colors,17,orange, = orange
+13_Colors,18,lys, = light
+13_Colors,19,lyse, = bright
+13_Colors,20,mørk, = dark
+13_Colors,21,Lesson 1
+13_Colors,22,lyseblåt, = light blue
+13_Colors,23,mørkeblå, = dark blue
+13_Colors,24,lysegrønt, = light green
+13_Colors,25,lysegrønne, = light green
+13_Colors,26,mørkegrøn, = dark green
+13_Colors,27,mørkegrønne, = dark green
+13_Colors,28,lyserød, = pink
+13_Colors,29,lyserøde, = pink
+13_Colors,30,mørkerød, = dark red
+13_Colors,31,mørkerøde, = dark red
 14_Questions,0,at, = that
 14_Questions,1,fordi, = because
 14_Questions,2,eller, = or
@@ -521,7 +543,7 @@ idx,les,dk,en
 19_Occupation,10,henne, = at
 19_Occupation,11,her, = here
 19_Occupation,12,også, = too/also
-19_Occupation,13,ret," = pretty, very"
+19_Occupation,13,ret," = pretty/ very"
 19_Occupation,14,bare, = just
 19_Occupation,15,endda, = even
 19_Occupation,16,engang, = even/once
@@ -547,8 +569,7 @@ idx,les,dk,en
 19_Occupation,34,ellers, = else
 19_Occupation,35,i øjeblikket, = currently/at the moment
 19_Occupation,36,langt, = far
-19_Occupation,37,længe, = long (
-19_Occupation,38,time,"), long a time"
+19_Occupation,37,længe, = long (time)/ long a time"
 19_Occupation,39,sædvanligvis, = usually
 19_Occupation,4,mere, = more
 19_Occupation,40,senere, = later
@@ -588,64 +609,209 @@ idx,les,dk,en
 19_Occupation,71,sammen, = together
 19_Occupation,8,altid, = always
 19_Occupation,9,derefter, = then
-20_Adjectives_1,0,studerende, = student
-20_Adjectives_1,1,doktor, = doctor
-20_Adjectives_1,10,arbejde, = work/job
-20_Adjectives_1,11,arbejdet, = the work/job
-20_Adjectives_1,12,en advokat, = a lawyer
-20_Adjectives_1,13,advokaten, = the lawyer
-20_Adjectives_1,14,advokaterne, = the lawyers
-20_Adjectives_1,15,direktør, = manager/director
-20_Adjectives_1,16,direktøren, = the manager/director
-20_Adjectives_1,17,kunstner, = artist
-20_Adjectives_1,18,kunstneren, = the artist
-20_Adjectives_1,19,ninjaer, = ninjas
-20_Adjectives_1,2,doktorer, = doctors
-20_Adjectives_1,20,ninjaen, = the ninja
-20_Adjectives_1,21,ninjaerne, = the ninjas
-20_Adjectives_1,22,politi, = police
-20_Adjectives_1,23,en sekretær, = a secretary
-20_Adjectives_1,24,sekretæren, = the secretary
-20_Adjectives_1,25,arbejder, = worker
-20_Adjectives_1,26,arbejderne, = the workers
-20_Adjectives_1,27,karriere, = career
-20_Adjectives_1,28,betjent, = police officer
-20_Adjectives_1,29,en betjent, = a police officer
-20_Adjectives_1,3,en forfatter, = an author
-20_Adjectives_1,30,en borgmester, = a mayor
-20_Adjectives_1,31,dommer, = judge/referee
-20_Adjectives_1,32,en dommer, = a judge/referee
-20_Adjectives_1,33,dommere, = judges/referees
-20_Adjectives_1,34,professionel, = professional
-20_Adjectives_1,35,professionelle, = professionals
-20_Adjectives_1,36,skuespillere, = actors/actresses
-20_Adjectives_1,36,skuespilleren, = the actor/actress
-20_Adjectives_1,37,soldat, = soldier
-20_Adjectives_1,38,soldater, = soldiers
-20_Adjectives_1,39,soldaterne, = the soldiers
-20_Adjectives_1,4,forfattere, = authors
-20_Adjectives_1,40,vagt, = guard
-20_Adjectives_1,41,en vagt, = a guard
-20_Adjectives_1,42,arkitekt, = architect
-20_Adjectives_1,43,chef, = boss
-20_Adjectives_1,44,chefen, = the boss/manager
-20_Adjectives_1,45,chefer, = bosses
-20_Adjectives_1,46,erhverv, = profession
-20_Adjectives_1,47,erhvervet, = the profession
-20_Adjectives_1,48,en ingeniør, = an engineer
-20_Adjectives_1,49,ingeniøren, = the engineer
-20_Adjectives_1,5,en model, = a model
-20_Adjectives_1,50,kok, = cook/chef
-20_Adjectives_1,51,kokke, = cooks/chefs
-20_Adjectives_1,52,landmand, = farmer
-20_Adjectives_1,53,landmænd, = farmers
-20_Adjectives_1,54,servitrice, = waitress
-20_Adjectives_1,55,tjener, = waiter/servant
-20_Adjectives_1,56,tjeneren, = the waiter/servant
-20_Adjectives_1,6,modellen, = the model
-20_Adjectives_1,7,modeller, = models
-20_Adjectives_1,8,personalet, = the staff
-20_Adjectives_1,9,et job, = a job
+19_Occupation,72,studerende, = student
+19_Occupation,73,doktor, = doctor
+19_Occupation,74,arbejde, = work/job
+19_Occupation,75,arbejdet, = the work/job
+19_Occupation,76,en advokat, = a lawyer
+19_Occupation,77,advokaten, = the lawyer
+19_Occupation,78,advokaterne, = the lawyers
+19_Occupation,79,direktør, = manager/director
+19_Occupation,80,direktøren, = the manager/director
+19_Occupation,81,kunstner, = artist
+19_Occupation,82,kunstneren, = the artist
+19_Occupation,83,ninjaer, = ninjas
+19_Occupation,84,doktorer, = doctors
+19_Occupation,85,ninjaen, = the ninja
+19_Occupation,86,ninjaerne, = the ninjas
+19_Occupation,87,politi, = police
+19_Occupation,88,en sekretær, = a secretary
+19_Occupation,89,sekretæren, = the secretary
+19_Occupation,90,arbejder, = worker
+19_Occupation,91,arbejderne, = the workers
+19_Occupation,92,karriere, = career
+19_Occupation,93,betjent, = police officer
+19_Occupation,94,en betjent, = a police officer
+19_Occupation,95,en forfatter, = an author
+19_Occupation,96,en borgmester, = a mayor
+19_Occupation,97,dommer, = judge/referee
+19_Occupation,98,en dommer, = a judge/referee
+19_Occupation,99,dommere, = judges/referees
+19_Occupation,100,professionel, = professional
+19_Occupation,101,professionelle, = professionals
+19_Occupation,102,skuespillere, = actors/actresses
+19_Occupation,103,skuespilleren, = the actor/actress
+19_Occupation,104,soldat, = soldier
+19_Occupation,105,soldater, = soldiers
+19_Occupation,106,soldaterne, = the soldiers
+19_Occupation,107,forfattere, = authors
+19_Occupation,108,vagt, = guard
+19_Occupation,109,en vagt, = a guard
+19_Occupation,110,arkitekt, = architect
+19_Occupation,111,chef, = boss
+19_Occupation,112,chefen, = the boss/manager
+19_Occupation,113,chefer, = bosses
+19_Occupation,114,erhverv, = profession
+19_Occupation,115,erhvervet, = the profession
+19_Occupation,116,en ingeniør, = an engineer
+19_Occupation,117,ingeniøren, = the engineer
+19_Occupation,118,en model, = a model
+19_Occupation,119,kok, = cook/chef
+19_Occupation,120,kokke, = cooks/chefs
+19_Occupation,121,landmand, = farmer
+19_Occupation,122,landmænd, = farmers
+19_Occupation,123,servitrice, = waitress
+19_Occupation,124,tjener, = waiter/servant
+19_Occupation,125,tjeneren, = the waiter/servant
+19_Occupation,126,modellen, = the model
+19_Occupation,127,modeller, = models
+19_Occupation,128,personalet, = the staff
+19_Occupation,129,et job, = a job
+20_Adjectives_1,1,generel, = general (common singular)
+20_Adjectives_1,2,generelle, = general (plural or definite)
+20_Adjectives_1,3,lille, = little (common singular)
+20_Adjectives_1,4,næste, = next (common singular)
+20_Adjectives_1,5,rigtig, = real (common singular)
+20_Adjectives_1,6,rigtigt, = real (neuter singular)
+20_Adjectives_1,7,rigtige, = real (plural or definite)
+20_Adjectives_1,8,samme, = same (plural or definite)
+20_Adjectives_1,9,små, = little (plural or definite)
+20_Adjectives_1,10,tosproget, = bilingual (common singular)
+20_Adjectives_1,11,tosprogede, = bilingual (plural or definite)
+20_Adjectives_1,12,træt, = tired (neuter singular)
+20_Adjectives_1,13,trætte, = tired (plural or definite)
+20_Adjectives_1,14,Lesson 2
+20_Adjectives_1,15,åben, = open
+20_Adjectives_1,16,egen, = own (common singular)
+20_Adjectives_1,17,eget, = own (neuter singular)
+20_Adjectives_1,18,egne, = own (plural or definite)
+20_Adjectives_1,19,fantastiske, = amazing/fantastic
+20_Adjectives_1,20,lokal, = local (common singular)
+20_Adjectives_1,21,lokalt, = local (neuter singular)
+20_Adjectives_1,22,lokale, = local (plural or definite)
+20_Adjectives_1,23,personlig, = personal (common singular)
+20_Adjectives_1,24,personlige, = personal (plural or definite)
+20_Adjectives_1,25,private, = private
+20_Adjectives_1,26,specielt, = special (neuter singular)
+20_Adjectives_1,27,specielle, = special (plural or definite)
+20_Adjectives_1,28,stor, = big (common singular)
+20_Adjectives_1,29,stort, = big (neuter singular)
+20_Adjectives_1,30,store, = big (plural or definite)
+20_Adjectives_1,31,Lesson 3
+20_Adjectives_1,32,anderledes, = different
+20_Adjectives_1,33,beskidt, = dirty (neuter singular)
+20_Adjectives_1,34,beskidte, = dirty (plural or definite)
+20_Adjectives_1,35,dansk, = Danish (common singular)
+20_Adjectives_1,36,danske, = Danish (plural or definite)
+20_Adjectives_1,37,lovlig, = legal (common singular)
+20_Adjectives_1,38,lovligt, = legal (neuter singular)
+20_Adjectives_1,39,lovlige, = legal (plural or definite)
+20_Adjectives_1,40,menneskelig, = human (common singular)
+20_Adjectives_1,41,menneskeligt, = human (neuter singular)
+20_Adjectives_1,42,menneskelige, = human (plural)
+20_Adjectives_1,43,nylig, = recent (common singular)
+20_Adjectives_1,44,nylige, = recent (plural or definite)
+20_Adjectives_1,45,ren, = clean (common singular)
+20_Adjectives_1,46,rent, = clean (plural or definite)
+20_Adjectives_1,47,venstre, = left
+20_Adjectives_1,48,Lesson 4
+20_Adjectives_1,49,fremtidige, = future
+20_Adjectives_1,50,levende, = living
+20_Adjectives_1,51,mulig, = possible (common singular)
+20_Adjectives_1,52,muligt, = possible (neuter singular)
+20_Adjectives_1,53,mulige, = possible (plural or definite)
+20_Adjectives_1,54,populært, = popular (neuter singular)
+20_Adjectives_1,55,populære, = popular (plural or definite)
+20_Adjectives_1,56,tilgængelig, = available (common singular)
+20_Adjectives_1,57,tilgængeligt, = available (neuter singular)
+20_Adjectives_1,58,tilgængelige, = available (plural or definite)
+20_Adjectives_1,59,vigtig, = important (common singular)
+20_Adjectives_1,60,vigtigt, = important (neuter singular)
+20_Adjectives_1,61,vigtige, = important (plural or definite)
+20_Adjectives_1,62,Lesson 5
+20_Adjectives_1,63,ansvarlig, = responsible (singular common)
+20_Adjectives_1,64,ansvarligt, = responsible (singular neuter)
+20_Adjectives_1,65,endeligt, = final (singular neuter)
+20_Adjectives_1,66,hel, = whole (singular common)
+20_Adjectives_1,67,helt, = whole/all (neuter singular)
+20_Adjectives_1,68,hele, = whole/all (plural or definite)
+20_Adjectives_1,69,militær, = military (singular common)
+20_Adjectives_1,70,militære, = military (plural or definite)
+20_Adjectives_1,71,nødvendig, = necessary (common singular)
+20_Adjectives_1,72,nødvendigt, = necessary (neuter singular)
+20_Adjectives_1,73,nødvendige, = necessary (plural or definite)
+20_Adjectives_1,74,officiel, = official (common singular)
+20_Adjectives_1,75,officielt, = official (neuter singular)
+20_Adjectives_1,76,officielle, = official (plural or definite)
+20_Adjectives_1,77,uafhængigt, = independent (neuter singular)
+20_Adjectives_1,78,uafhængige, = independent (plural or definite)
+20_Adjectives_1,79,Lesson 6
+20_Adjectives_1,80,fremragende, = excellent/fantastic
+20_Adjectives_1,81,moderne, = modern (plural or definite)
+20_Adjectives_1,82,normal, = normal (common singular)
+20_Adjectives_1,83,normalt, = normal (neuter singular)
+20_Adjectives_1,84,normale, = normal (plural or definite)
+20_Adjectives_1,85,ond, = evil (common singular)
+20_Adjectives_1,86,onde, = evil/evil ones (plural or definite)
+20_Adjectives_1,87,perfekt, = perfect (neuter singular)
+20_Adjectives_1,88,perfekte, = perfect (plural or definite)
+20_Adjectives_1,89,positiv, = positive (common singular)
+20_Adjectives_1,90,positivt, = positive (neuter singular)
+20_Adjectives_1,91,positive, = positive (plural or definite)
+20_Adjectives_1,92,smuk, = beautiful (common singular)
+20_Adjectives_1,93,smukt, = beautiful (neuter singular)
+20_Adjectives_1,94,smukke, = beautiful (plural or definite)
+20_Adjectives_1,95,Lesson 7
+20_Adjectives_1,96,forkert, = wrong (neuter singular)
+20_Adjectives_1,97,forkerte, = wrong (plural or definite)
+20_Adjectives_1,98,historisk, = historical (common singular)
+20_Adjectives_1,99,historiske, = historical (plural or definite)
+20_Adjectives_1,100,interessant, = interesting (neuter singular)
+20_Adjectives_1,101,interessante, = interesting (plural or definite)
+20_Adjectives_1,102,kulturel, = cultural (common singular)
+20_Adjectives_1,103,kulturelt, = cultural (neuter singular)
+20_Adjectives_1,104,kulturelle, = cultural (plural or definite)
+20_Adjectives_1,105,religiøs, = religious (common singular)
+20_Adjectives_1,106,religiøst, = religious (neuter singular)
+20_Adjectives_1,107,seriøs, = serious (common singular)
+20_Adjectives_1,108,seriøst, = serious (neuter singular)
+20_Adjectives_1,109,seriøse, = serious (plural or definite)
+20_Adjectives_1,110,traditionel, = traditional (common singular)
+20_Adjectives_1,111,traditionelle, = traditional (plural or definite)
+20_Adjectives_1,112,Lesson 8
+20_Adjectives_1,113,i live, = alive
+20_Adjectives_1,114,berømt, = famous (neuter singular)
+20_Adjectives_1,115,berømte, = famous (plural or definite)
+20_Adjectives_1,116,dyr, = expensive (common singular)
+20_Adjectives_1,117,dyrt, = expensive (neuter singular)
+20_Adjectives_1,118,effektiv, = effective (common singular)
+20_Adjectives_1,119,effektive, = effective (plural or definite)
+20_Adjectives_1,120,negativ, = negative (common singular)
+20_Adjectives_1,121,negativt, = negative (neuter singular)
+20_Adjectives_1,122,negative, = negative (plural or definite)
+20_Adjectives_1,123,umulig, = impossible (common singular)
+20_Adjectives_1,124,umuligt, = impossible (neuter singular)
+20_Adjectives_1,125,umulige, = impossible (plural or definite)
+20_Adjectives_1,126,underligt, = strange (neuter singular)
+20_Adjectives_1,127,underlige, = strange (plural or definite)
+20_Adjectives_1,128,velkendt, = familiar (neuter singular)
+20_Adjectives_1,129,Lesson 9
+20_Adjectives_1,130,bange, = afraid/scared (common singular)
+20_Adjectives_1,131,bekvem, = convenient (common singular)
+20_Adjectives_1,132,bekvemt, = convenient (neuter singular)
+20_Adjectives_1,133,bekvemme, = convenient/confartable (plural or definite)
+20_Adjectives_1,134,hyppigt, = frequent (neuter singular)
+20_Adjectives_1,135,hyppige, = frequent (plural or definite)
+20_Adjectives_1,136,modsatte, = opposite
+20_Adjectives_1,137,praktisk, = convenient/practical (common singular)
+20_Adjectives_1,138,praktiske, = convenient/practical (plural or definite)
+20_Adjectives_1,139,sjov, = fun/funny (common singular)
+20_Adjectives_1,140,sjovt, = fun/funny (neuter singular)
+20_Adjectives_1,141,sjove, = fun/funny (plural or definite)
+20_Adjectives_1,142,trist, = sad (neuter singular)
+20_Adjectives_1,143,triste, = sad (plural or definite)
+20_Adjectives_1,144,ked af det, = sorry/sad (common singular)
+20_Adjectives_1,145,kede af det, = sorry/sad (plural or definite)
 21_VerbsPresent_2,1,åbner,= open/opens
 21_VerbsPresent_2,10,bor,= live/lives/living (in a house)
 21_VerbsPresent_2,11,giver,= give/gives/giving
@@ -699,31 +865,31 @@ idx,les,dk,en
 22_Adverbs,11,giver, = give/gives/giving
 22_Adverbs,12,kigger, = look/looks/looking
 22_Adverbs,13,kommer, = come/comes/coming
-22_Adverbs,14,lever, "= live/lives, am/is/are alive"
+22_Adverbs,14,lever, = live/lives/ am/is/are alive"
 22_Adverbs,15,studerer, = study/studies/studying
 22_Adverbs,16,tilbyder, = offer/offers/offering
 22_Adverbs,17,inkluderer, = include/includes/including
-22_Adverbs,18,præsenterer, "= present/presents/presenting, introduce/introduces/introducing"
+22_Adverbs,18,præsenterer, = present/presents/presenting/ introduce/introduces/introducing
 22_Adverbs,19,prøver, = try/tries/trying
 22_Adverbs,2,ændrer på, = alter/alters/altering
 22_Adverbs,20,spørger, = ask/asks/asking
 22_Adverbs,21,taler, = speak/speaks/speaking
 22_Adverbs,22,underskriver, = sign/signs/signing
 22_Adverbs,23,afmærker, = mark/marks/marking
-22_Adverbs,24,føler, "= touch/touches, feel/feels"
+22_Adverbs,24,føler, = touch/touches/ feel/feels
 22_Adverbs,25,husker, = remember/remembers
-22_Adverbs,26,ønsker, "= wish/wishes, want/wants"
-22_Adverbs,27,står, "= stand/stands/standing, written (on the page)"
+22_Adverbs,26,ønsker, = wish/wishes/ want/wants
+22_Adverbs,27,står, = stand/stands/standing/ written (on the page)
 22_Adverbs,28,stopper, = stop/stops/stopping
-22_Adverbs,29,synes, "= think/thinks/thinking (an opinion), like/likes"
+22_Adverbs,29,synes= think/thinks/thinking (an opinion)/ like/likes
 22_Adverbs,3,gemmer sig, = hide/hides/hiding
 22_Adverbs,30,håber, = hope/hopes
 22_Adverbs,31,håber på det, = hope/hopes so
 22_Adverbs,32,opdrager, = raise/raises/raising
 22_Adverbs,33,rækker, = hand/hands/handing
-22_Adverbs,34,søger, "= look/looks/looking, search/searches/searching"
-22_Adverbs,35,svigter, "= fail, let down"
-22_Adverbs,36,tror, "= believe/believes, do/does think, think/thinks"
+22_Adverbs,34,søger, = look/looks/looking/ search/searches/searching
+22_Adverbs,35,svigter, = fail/ let down
+22_Adverbs,36,tror, = believe/believes/ do/does think/ think/thinks
 22_Adverbs,37,danser, = dance/dances/dancing
 22_Adverbs,38,følger, = follow/follows/folllowing
 22_Adverbs,39,overvejer, = consider/considers/considering
@@ -731,12 +897,195 @@ idx,les,dk,en
 22_Adverbs,40,returnerer, = return/returns
 22_Adverbs,41,takker, = thank/thanks
 22_Adverbs,42,vender tilbage, = returning
-22_Adverbs,43,begynder, "= start/starts, begin/begins/beginning"
+22_Adverbs,43,begynder, = start/starts/ begin/begins/beginning
 22_Adverbs,44,hviler, = rest/rests/resting
 22_Adverbs,45,slutter, = end/ends/ending
 22_Adverbs,46,stoler på, = trust/trusts
 22_Adverbs,47,svarer, = answer/answers/answering
-22_Adverbs,5,redder," = save/saves/saving, rescue/rescues/rescuing"
+22_Adverbs,5,redder, = save/saves/saving/ rescue/rescues/rescuing
 22_Adverbs,6,ringer, = call/calls/rings
 22_Adverbs,7,ringer til, = call/calls to
 22_Adverbs,9,tænker, = think/thinks/thinking
+23_Places,1,hus,house
+23_Places,2,hotel,hotel
+23_Places,3,badeværelset,the bathroom
+23_Places,4,strand,beach
+23_Places,5,kokken,cook (person)
+23_Places,5,køkken,kitchen
+23_Places,6,gård,yard/farm/courtyard
+23_Places,7,restauranten,the restaurant
+23_Places,8,udenfor,outside
+23_Places,9,lufthavn,airport
+23_Places,10,kirke,church (kirkerne = churches)
+23_Places,11,slottet,the castle
+23_Places,12,land,country
+23_Places,13,gade,street / gaderne = streets
+23_Places,14,byer,cities (by = city)
+23_Places,15,sted,place
+23_Places,15,stedet,instead
+23_Places,16,langs,along
+23_Places,17,kontor,office
+23_Places,18,områderne,the districts
+23_Places,19,hjem,home
+23_Places,20,ind,inside
+23_Places,21,centrum,centery (city)
+23_Places,22,plads,square (city)
+23_Places,23,stue,living room
+23_Places,24,adresserne,the addresses
+23_Places,25,afdelingen,department
+23_Places,26,ejendom,property
+23_Places,27,rum,room
+23_Places,28,bygning,building
+23_Places,29,parken,the park
+23_Places,30,soveværelse,bedroom
+23_Places,31,distrikterne,the districts
+23_Places,32,have,garden
+23_Places,33,øerne,the islands
+23_Places,34,bank,bank
+23_Places,35,barerne,the bars
+23_Places,36,region,region
+23_Places,37,foran,in front of
+23_Places,38,derinde,in there
+23_Places,39,værelse,room
+23_Places,40,station,station
+23_Places,41,jorden,the ground
+23_Places,42,museum,museum
+23_Places,43,dalen,
+23_Places,44,kyst,coast
+23_Places,45,indenfor,within
+23_Places,46,zone,zone
+23_Places,47,derude,out there
+23_Places,48,nabolag,neighborhood
+23_Places,49,ruten,the route
+23_Places,50,grænse,limit
+23_Places,51,hjørnet,the corner
+23_Places,52,tårn,tower
+23_Places,53,biograf,movie theater
+23_Places,54,boulevard,boulevard
+23_Places,55,derhenne,over there
+23_Places,56,fængsel,prison
+23_Places,57,hovedstad,capital city
+23_Places,58,paladserne,the palaces
+23_Places,59,samfund,community
+23_Places,60,landsby,village
+23_Places,61,havnen,the port
+23_Places,62,center,center
+23_Places,63,højre,right
+23_Places,64,torvet,the square
+23_Places,65,oven,oven
+23_Places,66,vest,west
+23_Places,67,norden,norden
+23_Places,68,bondegård,farm
+23_Places,69,zoologisk,zoological
+24_Objects,2 ,stol,chair
+24_Objects,3 ,bord,table
+24_Objects,4 ,seng,bed
+24_Objects,5 ,skålen,the bowl
+24_Objects,6 ,ske,spoon
+24_Objects,7 ,flasken,the bottles
+24_Objects,8 ,blad,leaf
+24_Objects,10,vinduerne,the windows
+24_Objects,11,fjernsyn,television
+24_Objects,12,radio,radio
+24_Objects,13,spejl,mirror
+24_Objects,14,urene,the clocks
+24_Objects,15,mobiltelefon,cell phone
+24_Objects,16,computeren,the computer
+24_Objects,18,sofa,couch
+24_Objects,19,lampe,lamp
+24_Objects,20,skrivebordet,the desk
+24_Objects,21,kurv,basket
+24_Objects,22,armbåndsur,wrist watch
+24_Objects,23,batteri,battery
+24_Objects,24,sæbe,soap
+24_Objects,26,pungen,the wallet
+24_Objects,27,døren,the door
+24_Objects,28,skærmene,the screens
+24_Objects,29,kasse,box
+24_Objects,30,sengetøjet,the bedding
+24_Objects,31,tv,tv
+24_Objects,32,skraber,scraper
+24_Objects,33,barberer,shaving
+24_Objects,35,tandpastaen,toothpaste
+24_Objects,36,væggene,the walls
+24_Objects,37,telefon tasker,phone bags
+24_Objects,38,hjul,wheel
+24_Objects,39,paraply,umbrella
+24_Objects,40,gulv,floor
+24_Objects,42,tag,roof
+24_Objects,43,brev,letter
+24_Objects,44,svamp,mushroom
+24_Objects,45,nøgle,key
+24_Objects,46,skab,cabinet
+24_Objects,47,svømmebassin,pool
+24_Objects,48,ting,thing
+24_Objects,50,saks,scissors
+24_Objects,51,klokken,o'clock
+24_Objects,52,glas,glass
+24_Objects,53,kopper,copper
+24_Objects,54,pande,forehead
+24_Objects,55,papirerne,the papers
+24_Objects,56,maskine,machine
+24_Objects,58,snor,cord
+24_Objects,59,arkene,the sheets
+24_Objects,60,genstand,object
+24_Objects,61,motor,engine
+24_Objects,62,stykke,piece
+24_Objects,63,pakkerne,the packages
+24_Objects,65,rod,red
+24_Objects,66,flag,flag
+24_Objects,67,kædeme,the chains
+24_Objects,68,roman,novel
+24_Objects,69,pulveret,the powder
+24_Objects,70,kam,comb
+25_Animals2,1,giraf,giraffe
+25_Animals2,2,hval,whale
+25_Animals2,3,abe,monkey
+25_Animals2,4,delfin,dolphin
+25_Animals2,5,haj,shark
+25_Animals2,6,kæledyr,Pet
+25_Animals2,7,uger,weeks
+25_Animals2,8,ko,cow
+25_Animals2,9,pingvin,penguin
+25_Animals2,10,gris,pig
+25_Animals2,11,vandmand,Aquarius
+25_Animals2,12,ræv,fox
+25_Animals2,13,ulv,wolf
+25_Animals2,14,hjort,deer
+25_Animals2,15,husdyr,pets
+25_Animals2,16,kanin,rabbit
+25_Animals2,17,myre,ant
+25_Animals2,18,insekt orm,insect worm
+25_Animals2,19,svane,swan
+25_Animals2,20,isbjørn,polar bear
+25_Animals2,21,egern,squirrel
+25_Animals2,22,høne,hen
+25_Animals2,23,får,sheep
+25_Animals2,24,måge,seagull
+25_Animals2,25,solsorte,mirlo (blackbird)
+25_Animals2,26,grævling,badger
+25_Animals2,27,slangerne,the snakes
+25_Animals2,28,pindsvinene,the hedgehogs
+25_Animals2,29,enhjørning,unicorn
+25_Animals2,30,krone,crown
+25_Animals2,31,kæle,cuddle
+26_People,1,person,person
+26_People,2,fjende,enemy
+26_People,3,ven,friend
+26_People,4,offentligheden,the public
+26_People,5,kæreste,girlfriend
+26_People,6,baby,baby
+26_People,7,mennesker,people
+26_People,8,ungdommen,the youth
+26_People,9,kultur,culture
+26_People,10,befolkningen,the population
+26_People,11,konference,conference
+26_People,12,fundament,foundation
+26_People,13,komite,committee
+26_People,14,forhold,relationship
+26_People,15,individ,individual
+26_People,16,stk,piece
+26_People,17,dame,lady
+26_People,18,borger,citizen
+26_People,19,offer,offer
+26_People,20,folk,people
