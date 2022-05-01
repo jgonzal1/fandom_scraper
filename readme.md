@@ -50,3 +50,5 @@ After that, each missing data was enriched with this flow:
 5. Writing operations in the file were helped by VSCode multicursor insertions with mouse middle button.
 
 6. The numeric references were added automatically with [Asuka.insertnumbers](https://marketplace.visualstudio.com/items?itemName=Asuka.insertnumbers) VSCode extension.
+
+7. Additionally, a `danish_curated_anki.csv` was created for further conversion to ANKI format for that learning platform via [The csv2apkg tool](https://www.easy4u.tools/csv2apkg).
