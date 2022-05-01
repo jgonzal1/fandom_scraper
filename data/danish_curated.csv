@@ -401,7 +401,7 @@ idx,les,dk,en
 15_Prepositions_1,9,bag, = behind
 16_Conjunctions,0,hvad ,= what
 16_Conjunctions,1,hvor, = where
-16_Conjunctions,10,et, 
+16_Conjunctions,10,et, = a
 16_Conjunctions,11,svar, = an answer
 16_Conjunctions,12,svaret, = the answer
 16_Conjunctions,13,svarene, = the answers
@@ -950,7 +950,7 @@ idx,les,dk,en
 23_Places,40,station,station
 23_Places,41,jorden,the ground
 23_Places,42,museum,museum
-23_Places,43,dalen,
+23_Places,43,dalen,the valley
 23_Places,44,kyst,coast
 23_Places,45,indenfor,within
 23_Places,46,zone,zone
